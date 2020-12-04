@@ -3,11 +3,13 @@
 
 I'm Mustafa Murat Coşkun. Computer Engineer and Instructor - Udemy
 
+![Profile Views](https://komarev.com/ghpvc/?username=mustafamuratcoskun)
+
 ![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafamuratcoskun&show_icons=true)
 
 ## Graduation
 
-I'm graduated from Computer Engineering Degree from [Middle East Technical University](https://www.metu.edu.tr/)
+Computer Engineering Degree |  [Middle East Technical University](https://www.metu.edu.tr/)
 
 ## I'm currently working on 🔭
 
