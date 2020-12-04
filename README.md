@@ -7,7 +7,7 @@ I'm Mustafa Murat Coşkun. Computer Engineer and Instructor - Udemy
 
 ## Graduation
 
-I'm graduated from Computer Engineering Degree from Middle East Technical University [Hemosoft](http://hemosoft.com.tr)
+I'm graduated from Computer Engineering Degree from [Middle East Technical University](https://www.metu.edu.tr/)
 
 ## I'm currently working on 🔭
 
