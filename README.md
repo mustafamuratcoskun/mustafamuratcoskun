@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi! Welcome to my github page. 👋
 
-<!--
-**mustafamuratcoskun/mustafamuratcoskun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Mustafa Murat Coşkun. Computer Engineer and Instructor - Udemy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafamuratcoskun&show_icons=true)
+
+## Graduation
+
+I'm graduated from Computer Engineering Degree from Middle East Technical University [Hemosoft](http://hemosoft.com.tr)
+
+## I'm currently working on 🔭
+
+Instructor - Yazılım Bilimi and Udemy (https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ)
+
+
+## Contact Me 📫
+
+You can find and get touch with me via Linkedin and Instagram!
+
+[![Linkedin Badge](https://img.shields.io/badge/mustafamuratcoskun-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mustafa-murat-co%C5%9Fkun-428858b9/)
+[![Instagram Badge](https://img.shields.io/badge/mustafamuratcoskun-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/mustafamuratcoskun/)
+
