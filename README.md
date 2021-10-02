@@ -13,6 +13,11 @@ Computer Engineering Degree |  [Middle East Technical University](https://www.me
 
 ## I'm currently working on 🔭
 
+Software Developer - Trendyol Group
+
+Lecturer in Middle East Technical University - Computer Engineering
+  - Taught Courses - Ceng240 - Programming with Python for Engineers
+
 Instructor - Yazılım Bilimi and Udemy (https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ)
 
 
