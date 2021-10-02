@@ -10,6 +10,7 @@ I'm Mustafa Murat Coşkun. Computer Engineer and Instructor - Udemy
 ## Graduation
 
 B.S in Computer Engineering |  [Middle East Technical University](https://www.metu.edu.tr/)
+
 MsC in Computer Engineering |  [Middle East Technical University](https://www.metu.edu.tr/)
 
 
